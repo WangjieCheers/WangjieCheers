@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WangjieCheers.
 - 👀 I’m interested in game development.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently creating visual novel.
 - 💞️ I’m looking to collaborate with 3d artist.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
